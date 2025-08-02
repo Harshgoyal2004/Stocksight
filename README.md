@@ -30,7 +30,7 @@
 
   <h2>🚀 Getting Started</h2>
   <h3>1. Clone the Repository</h3>
-  <pre><code>git clone https://github.com/ishakalya/stock-price-prediction.git
+  <pre><code>git clone https://github.com/Harshgoyal2004/stock-price-prediction.git
 cd stock-price-prediction</code></pre>
 
   <h3>2. Backend Setup</h3>
@@ -66,4 +66,4 @@ npm start</code></pre>
 └── README.md</code></pre>
 
   <h2>🙋‍♀️ Author</h2>
-  <p>Developed by <a href="https://github.com/ishakalya">Isha Kalya</a></p>
+  <p>Developed by <a href="https://github.com/Harshgoyal2004">Harsh Goyal</a></p>
