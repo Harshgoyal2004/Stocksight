@@ -67,3 +67,4 @@ npm start</code></pre>
 
   <h2>🙋‍♀️ Author</h2>
   <p>Developed by <a href="https://github.com/Harshgoyal2004">Harsh Goyal</a></p>
+# stocksight_frontend
